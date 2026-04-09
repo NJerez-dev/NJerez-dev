@@ -9,7 +9,7 @@ Ingeniero en Industria y Logística enfocado en análisis de operaciones y suppl
 
 ## 📊 Proyectos Destacados
 
-### 🚚 Análisis de Transporte de Última Milla
+### 🚚 Last-Mile-Delivery-Analysis
 Análisis de más de 1.000 viajes identificando:
 - 47.7% de no entregas
 - Problemas en carga y distribución
@@ -19,7 +19,7 @@ Análisis de más de 1.000 viajes identificando:
 
 ---
 
-### 📦 Análisis de Inventario
+### 📦 Inventory-Optimization-Analysis
 Optimización de stock y control de inventarios:
 - Identificación de quiebres
 - Análisis de rotación
