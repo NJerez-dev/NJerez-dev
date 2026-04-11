@@ -1,15 +1,15 @@
-# 👋 Hola, soy Nicolás
+#  Hola, soy Nicolás
 
 Ingeniero en Industria y Logística enfocado en análisis de operaciones y supply chain.
 
-## 🚀 En qué me especializo
+##  En qué me especializo
 - Transporte de última milla
 - Gestión de inventarios
 - Análisis de datos aplicados a operaciones
 
-## 📊 Proyectos Destacados
+##  Proyectos Destacados
 
-### 🚚 Last-Mile-Delivery-Analysis
+###  Last-Mile-Delivery-Analysis
 Análisis de más de 1.000 viajes identificando:
 - 47.7% de no entregas
 - Problemas en carga y distribución
@@ -19,7 +19,7 @@ Análisis de más de 1.000 viajes identificando:
 
 ---
 
-### 📦 Inventory-Optimization-Analysis
+###  Inventory-Optimization-Analysis
 Optimización de stock y control de inventarios:
 - Identificación de quiebres
 - Análisis de rotación
